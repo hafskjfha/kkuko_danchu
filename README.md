@@ -1,2 +1,3 @@
 # kkuko_danchu
-끄투 단어추가 관리
+
+[6월 단어 추가 요청 목록](https://docs.google.com/spreadsheets/d/1tE6ueo4H6RJGtatHKCzZDtoVSuVYLBPoF8alT3VOYrA/edit?usp=drivesdk)
