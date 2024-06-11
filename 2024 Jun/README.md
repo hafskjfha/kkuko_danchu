@@ -6,3 +6,4 @@
 | 2 | 동물의 숲 단어 추가 요청 | 설월화 | [naver cafe](https://cafe.naver.com/kkutukorea/126029) | [index2.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index2.html) |
 | 3 | 브롤스타즈 주제 내 일부 단어 수정과 삭제 요청 | 멍청한악동코알라 | [naver cafe](https://cafe.naver.com/kkutukorea/126031) | []
 | 4 | 러브라이브 수정 추가 | 빌런 KING | [naver cafe](https://cafe.naver.com/kkutukorea/126039) | [] |
+| 5 | 추가 | 매니 | [naver cafe](https://cafe.naver.com/kkutukorea/126040?tc=shared_link) | [] |
