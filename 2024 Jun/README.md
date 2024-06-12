@@ -1,9 +1,15 @@
 <h1>2024 6월 단어 검토 요청 정리</h1>
 
-| 번호 | 글제목 | 작성자(카페 닉네임) | 글링크 | html |
-|----|----|----|----|----|
-| 1 | 추가 | 머리어깨구두빨 | [naver cafe](https://cafe.naver.com/kkutukorea?iframe_url_utf8=%2FArticleRead.nhn%253FreferrerAllArticles%3Dtrue%2526page%3D1%2526searchBy%3D0%2526query%3D%25ED%258F%25B0%25EC%259D%2580%2526exclude%3D%2526include%3D%2526exact%3D%2526searchdate%3Dall%2526media%3D0%2526sortBy%3Ddate%2526inCafeSearch%3Dtrue%2526clubid%3D29066286%2526articleid%3D125902) | [index1.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index1.html) |
-| 2 | 동물의 숲 단어 추가 요청 | 설월화 | [naver cafe](https://cafe.naver.com/kkutukorea/126029) | [index2.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index2.html) |
-| 3 | 브롤스타즈 주제 내 일부 단어 수정과 삭제 요청 | 멍청한악동코알라 | [naver cafe](https://cafe.naver.com/kkutukorea/126031) | []
-| 4 | 러브라이브 수정 추가 | 빌런 KING | [naver cafe](https://cafe.naver.com/kkutukorea/126039) | [] |
-| 5 | 추가 | 매니 | [naver cafe](https://cafe.naver.com/kkutukorea/126040?tc=shared_link) | [] |
+| 번호 | 글제목 | 작성자(카페 닉네임) | 글링크 | 글 게시 날짜 | html |
+|----|----|----|----|----|----|
+| 1 | 추가 | 머리어깨구두빨 | [naver cafe](https://cafe.naver.com/kkutukorea/126023) | 6.10 01:59 | [index1.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index1.html) |
+| 2 | 동물의 숲 단어 추가 요청 | 설월화 | [naver cafe](https://cafe.naver.com/kkutukorea/126029) | 6.10 7:30 | [index2.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index2.html) |
+| 3 | 브롤스타즈 주제 내 일부 단어 수정과 삭제 요청 | 멍청한악동코알라 | [naver cafe](https://cafe.naver.com/kkutukorea/126031) | 6.10 13:33 | [index3.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index3.html)
+| 4 | 러브라이브 수정 추가 | 빌런 KING | [naver cafe](https://cafe.naver.com/kkutukorea/126039) | 6.11 05:03 | [undex4.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index5.html) |
+| 5 | 추가 | 매니 | [naver cafe](https://cafe.naver.com/kkutukorea/126040?tc=shared_link) | 6.11 11:22 | [index5.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index5.html) |
+| 6 | 원신 튜토리얼 | 머리어깨구두빨 | [baver cafe](https://cafe.naver.com/kkutukorea/126041) | 6.11 11:40 | [] |
+| 7 | 오타들 | ra | [naver cafe](https://cafe.naver.com/kkutukorea/126042) | 6.11 12:37 | [] |
+| 8 | 한대음 추가 | 멍청한악동코알라 | [naver cafe](https://cafe.naver.com/kkutukorea/126044) | 6.11 19:52 | [] | 
+| 9 | 쿠키런 단어 추가 | 내가만든쿠키 | [naver cafe](https://cafe.naver.com/kkutukorea/126045) | 6.11 21:06 | [] |
+| 10 | 원신 | 타자 느리니까 이해좀 | [naver cafe](https://cafe.naver.com/kkutukorea/126049) | 6.12 00:26 | [] |
+| 11 | 단어 수정 | wnswo071 | [naver cafe](https://cafe.naver.com/kkutukorea/126052) | 6.12 05:27 | [] |
