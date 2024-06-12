@@ -13,3 +13,4 @@
 | 9 | 쿠키런 단어 추가 | 내가만든쿠키 | [naver cafe](https://cafe.naver.com/kkutukorea/126045) | 6.11 21:06 | [index9.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index9.html) |
 | 10 | 원신 | 타자 느리니까 이해좀 | [naver cafe](https://cafe.naver.com/kkutukorea/126049) | 6.12 00:26 | [index10.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index10.html) |
 | 11 | 단어 수정 | wnswo071 | [naver cafe](https://cafe.naver.com/kkutukorea/126052) | 6.12 05:27 | [index11.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index11.html) |
+| 12 | 쿠키런 단어추가 | IIIllllII | [naver cafe](https://cafe.naver.com/kkutukorea/126053) | 6.12 12:12 | [index12.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index12.html) | 
