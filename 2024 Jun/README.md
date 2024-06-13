@@ -16,6 +16,6 @@
 | 12 | 쿠키런 단어추가 | IIIllllII | [naver cafe](https://cafe.naver.com/kkutukorea/126053) | 6.12 12:12 | [index12.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index12.html) | 
 | 13 | 24 6월 1차 추가 브롤스타즈 | 역우주 |  [nvaer cafe](https://cafe.naver.com/kkutukorea/126054) | 6.12 16:12 | [index13.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index13.html)
 | 14 | 리그 오브 레전드 14.12 패치노트 | 지롯 | [naver cafe](https://cafe.naver.com/kkutukorea/126055) | 6.12 18:01 | [index14.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index14.html) |
-| 15 | 해축 유명인 추가 | 냥해미 | [naver cafe](https://cafe.naver.com/kkutukorea/126057) | 6.12 23:30 | [] |
-| 16 | 추가 | 머리어깨구두빨 | [naver cafe](https://cafe.naver.com/kkutukorea/126059) | 6.13 01:18 | [] |
-| 17 | 유희왕 추가 | 한단초 | [naver cafe](https://cafe.naver.com/kkutukorea/126060) | 6.13 02:56 | [] | 
+| 15 | 해축 유명인 추가 | 냥해미 | [naver cafe](https://cafe.naver.com/kkutukorea/126057) | 6.12 23:30 | [index15.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index15.html) |
+| 16 | 추가 | 머리어깨구두빨 | [naver cafe](https://cafe.naver.com/kkutukorea/126059) | 6.13 01:18 | [index16.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index16.html) |
+| 17 | 유희왕 추가 | 한단초 | [naver cafe](https://cafe.naver.com/kkutukorea/126060) | 6.13 02:56 | [index17.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index17.html) | 
