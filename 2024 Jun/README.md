@@ -19,3 +19,4 @@
 | 15 | 해축 유명인 추가 | 냥해미 | [naver cafe](https://cafe.naver.com/kkutukorea/126057) | 6.12 23:30 | [index15.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index15.html) |
 | 16 | 추가 | 머리어깨구두빨 | [naver cafe](https://cafe.naver.com/kkutukorea/126059) | 6.13 01:18 | [index16.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index16.html) |
 | 17 | 유희왕 추가 | 한단초 | [naver cafe](https://cafe.naver.com/kkutukorea/126060) | 6.13 02:56 | [index17.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index17.html) | 
+| 18 | 한대음 추가 | 멍청한악동코알라 | [naver cafe](https://cafe.naver.com/kkutukorea/126062) | 6.13 14:06 | []
