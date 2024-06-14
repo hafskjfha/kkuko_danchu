@@ -19,4 +19,8 @@
 | 15 | 해축 유명인 추가 | 냥해미 | [naver cafe](https://cafe.naver.com/kkutukorea/126057) | 6.12 23:30 | [index15.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index15.html) |
 | 16 | 추가 | 머리어깨구두빨 | [naver cafe](https://cafe.naver.com/kkutukorea/126059) | 6.13 01:18 | [index16.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index16.html) |
 | 17 | 유희왕 추가 | 한단초 | [naver cafe](https://cafe.naver.com/kkutukorea/126060) | 6.13 02:56 | [index17.html](https://github.com/hafskjfha/kkuko_danchu/blob/main/2024%20Jun/html/index17.html) | 
-| 18 | 한대음 추가 | 멍청한악동코알라 | [naver cafe](https://cafe.naver.com/kkutukorea/126062) | 6.13 14:06 | []
+| 18 | 한대음 추가 | 멍청한악동코알라 | [naver cafe](https://cafe.naver.com/kkutukorea/126062) | 6.13 14:06 | [] |
+| 19 | 원신 단어 수정 및 추가 요청 | gong | [naver cafe](https://cafe.naver.com/kkutukorea/126066) | 6.13 19:47 | [] |
+| 20 | 원신 추가 요청 | 멍청한악동코알라 | [naver cafe](https://cafe.naver.com/kkutukorea/126071) | 6.14 00:53 | [] |
+| 21 | 추가 | 매니 | [naver cafe](https://cafe.naver.com/kkutukorea/126072) | 6.14 00:56 | []
+| 22 | 단어 수정 요청 | 호시노 | [naver cafe](https://cafe.naver.com/kkutukorea/126073) | 6.14 01:45 | []
