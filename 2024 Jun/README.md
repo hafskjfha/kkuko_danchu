@@ -22,5 +22,7 @@
 | 18 | 한대음 추가 | 멍청한악동코알라 | [naver cafe](https://cafe.naver.com/kkutukorea/126062) | 6.13 14:06 | [] |
 | 19 | 원신 단어 수정 및 추가 요청 | gong | [naver cafe](https://cafe.naver.com/kkutukorea/126066) | 6.13 19:47 | [] |
 | 20 | 원신 추가 요청 | 멍청한악동코알라 | [naver cafe](https://cafe.naver.com/kkutukorea/126071) | 6.14 00:53 | [] |
-| 21 | 추가 | 매니 | [naver cafe](https://cafe.naver.com/kkutukorea/126072) | 6.14 00:56 | []
-| 22 | 단어 수정 요청 | 호시노 | [naver cafe](https://cafe.naver.com/kkutukorea/126073) | 6.14 01:45 | []
+| 21 | 추가 | 매니 | [naver cafe](https://cafe.naver.com/kkutukorea/126072) | 6.14 00:56 | [] |
+| 22 | 단어 수정 요청 | 호시노 | [naver cafe](https://cafe.naver.com/kkutukorea/126073) | 6.14 01:45 | [] |
+| 23 | 페이모스피플 |  AHE | [naver cafe](https://cafe.naver.com/kkutukorea/126076) | 6.14 18:45 | [] |
+| 24 | 원신 단어 추가 요청 | gong | [naver cafe](https://cafe.naver.com/kkutukorea/126078) | 6.14 20:10 | [] |
