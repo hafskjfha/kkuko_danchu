@@ -26,3 +26,7 @@
 | 22 | 단어 수정 요청 | 호시노 | [naver cafe](https://cafe.naver.com/kkutukorea/126073) | 6.14 01:45 | [] |
 | 23 | 페이모스피플 |  AHE | [naver cafe](https://cafe.naver.com/kkutukorea/126076) | 6.14 18:45 | [] |
 | 24 | 원신 단어 추가 요청 | gong | [naver cafe](https://cafe.naver.com/kkutukorea/126078) | 6.14 20:10 | [] |
+| 25 | 단어 추가 요청 | 설월화 | [naver cafe](https://cafe.naver.com/kkutukorea/126085) | 6.15 18:01 | [] |
+| 26 | 추가 요청 | AHE | [naver cafe](https://cafe.naver.com/kkutukorea/126086) | 6.15 19:40 | [] |
+| 27 | 원신 단어 추가 요청 | gong |[naver cafe](https://cafe.naver.com/kkutukorea/126089) | 6.15 22:11 | [] |
+| 28 | 추가 | 머리어깨구두빨 | [naver cafe](https://cafe.naver.com/kkutukorea/126090) | 6.16 03:24 | [] |
