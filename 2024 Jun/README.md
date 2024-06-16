@@ -30,3 +30,9 @@
 | 26 | 추가 요청 | AHE | [naver cafe](https://cafe.naver.com/kkutukorea/126086) | 6.15 19:40 | [] |
 | 27 | 원신 단어 추가 요청 | gong |[naver cafe](https://cafe.naver.com/kkutukorea/126089) | 6.15 22:11 | [] |
 | 28 | 추가 | 머리어깨구두빨 | [naver cafe](https://cafe.naver.com/kkutukorea/126090) | 6.16 03:24 | [] |
+| 29 | 마인크래프트 단어 추가 | 호시노 | [naver cafe](https://cafe.naver.com/kkutukorea/126092) | 6.16 13:51 | [] |
+| 30 | 쿠키런 단어 추가 | IIIllllII | [naver cafe](https://cafe.naver.com/kkutukorea/126094) | 6.16 17:04 | [] |
+| 31 | 원신 단어 추가 요청 | gong | [naver cafe](https://cafe.naver.com/kkutukorea/126095) | 6.16 17:04 | [] |
+| 32 | 추가요청 | AHE | [naver cafe](https://cafe.naver.com/kkutukorea/126096) | 6.16 17:52 | [] |
+| 33 | 추가, 수정 | 매니 | [naver cafe](https://cafe.naver.com/kkutukorea/126099) | 6.16 21:11 | [] |
+| 34 | 추가 | 머리어깨구두빨 | [naver cafe](https://cafe.naver.com/kkutukorea/126101) | 6.17 00:09 | [] |
