@@ -36,3 +36,6 @@
 | 32 | 추가요청 | AHE | [naver cafe](https://cafe.naver.com/kkutukorea/126096) | 6.16 17:52 | [] |
 | 33 | 추가, 수정 | 매니 | [naver cafe](https://cafe.naver.com/kkutukorea/126099) | 6.16 21:11 | [] |
 | 34 | 추가 | 머리어깨구두빨 | [naver cafe](https://cafe.naver.com/kkutukorea/126101) | 6.17 00:09 | [] |
+| 35 | 추가 | Niadot | [naver cafe](https://cafe.naver.com/kkutukorea/126103) | 6.17 16:09 | [] |
+| 36 | <원신> 단어 추가, 수정 | 봤던애니만씀 | [naver cafe](https://cafe.naver.com/kkutukorea/126105) | 6.17 18:05 | [] |
+| 35 | 추가 | 머리어깨구두빨 | [naver cafe](https://cafe.naver.com/kkutukorea/126108) | 6.18 00:02 | [] |
