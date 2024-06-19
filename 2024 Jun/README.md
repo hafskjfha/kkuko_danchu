@@ -44,3 +44,4 @@
 | 40 | 쿠키런 단어 추가 | 내가만든쿠키 | [naver cafe](https://cafe.naver.com/kkutukorea/126113) | 6.18 23:33 | [] | 
 | 41 | 포단추로있다가유리게슝아니그냥 | 사쿠 | [naver cafe](https://cafe.naver.com/kkutukorea/126114) | 6.18 23:35 | [] |
 | 42 | 추가 | ra | [naver cafe](https://cafe.naver.com/kkutukorea/126115) | 6.19 01:33 | [] |
+| 43 | 원신 단어 추가 요청 | gong | [naver cafe](https://cafe.naver.com/kkutukorea/126122) | 6.19 23:45 | [] |
