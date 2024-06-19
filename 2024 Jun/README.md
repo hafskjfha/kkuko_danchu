@@ -40,3 +40,7 @@
 | 36 | <원신> 단어 추가, 수정 | 봤던애니만씀 | [naver cafe](https://cafe.naver.com/kkutukorea/126105) | 6.17 18:05 | [] |
 | 37 | 추가 | 머리어깨구두빨 | [naver cafe](https://cafe.naver.com/kkutukorea/126108) | 6.18 00:02 | [] |
 | 38 | 원신 단어 추가 요청 | gong | [naver cafe](https://cafe.naver.com/kkutukorea/126109) | 6.18 08:09 | [] |
+| 39 | 쿠키런 단어 추가 | IIIllllII | [baver cafe](https://cafe.naver.com/kkutukorea/126110) | 6.18 17:33 | [] |
+| 40 | 쿠키런 단어 추가 | 내가만든쿠키 | [naver cafe](https://cafe.naver.com/kkutukorea/126113) | 6.18 23:33 | [] | 
+| 41 | 포단추로있다가유리게슝아니그냥 | 사쿠 | [naver cafe](https://cafe.naver.com/kkutukorea/126114) | 6.18 23:35 | [] |
+| 42 | 추가 | ra | [naver cafe](https://cafe.naver.com/kkutukorea/126115) | 6.19 01:33 | [] |
