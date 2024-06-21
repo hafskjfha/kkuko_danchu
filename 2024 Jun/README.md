@@ -49,3 +49,4 @@
 | 45 | 쿠키런 단어 추가 | 내가만든쿠키 | [naver cafe](https://cafe.naver.com/kkutukorea/126133) | 6.20 20:38 | [] |
 | 46 | 추가 | ra | [naver cafe](https://cafe.naver.com/kkutukorea/126136) | 6.20 23:43 | [] |
 | 47 | 추가 | 머리어깨구두빨 | [nvaer cafe](https://cafe.naver.com/kkutukorea/126137) | 6.21 01:48 | [] |
+| 48 | 추가 | 매니 | [naver cafe](https://cafe.naver.com/kkutukorea/126139) | 6.21 11:31 | [] |
