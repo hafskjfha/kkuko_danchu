@@ -45,3 +45,7 @@
 | 41 | 포단추로있다가유리게슝아니그냥 | 사쿠 | [naver cafe](https://cafe.naver.com/kkutukorea/126114) | 6.18 23:35 | [] |
 | 42 | 추가 | ra | [naver cafe](https://cafe.naver.com/kkutukorea/126115) | 6.19 01:33 | [] |
 | 43 | 원신 단어 추가 요청 | gong | [naver cafe](https://cafe.naver.com/kkutukorea/126122) | 6.19 23:45 | [] |
+| 44 | 2024년 6월 3주제 단어 수정 요청 | K317경의중앙수색 | [naver cafe](https://cafe.naver.com/kkutukorea/126132) | 6.20 18:19 | [] |
+| 45 | 쿠키런 단어 추가 | 내가만든쿠키 | [naver cafe](https://cafe.naver.com/kkutukorea/126133) | 6.20 20:38 | [] |
+| 46 | 추가 | ra | [naver cafe](https://cafe.naver.com/kkutukorea/126136) | 6.20 23:43 | [] |
+| 47 | 추가 | 머리어깨구두빨 | [nvaer cafe](https://cafe.naver.com/kkutukorea/126137) | 6.21 01:48 | [] |
