@@ -50,3 +50,5 @@
 | 46 | 추가 | ra | [naver cafe](https://cafe.naver.com/kkutukorea/126136) | 6.20 23:43 | [] |
 | 47 | 추가 | 머리어깨구두빨 | [nvaer cafe](https://cafe.naver.com/kkutukorea/126137) | 6.21 01:48 | [] |
 | 48 | 추가 | 매니 | [naver cafe](https://cafe.naver.com/kkutukorea/126139) | 6.21 11:31 | [] |
+| 49 | 쿠키런 단어 추가 | IIIllllII | [naver cafe](https://cafe.naver.com/kkutukorea/126140) | 6.21 15:07 | [] |
+| 50 | 간식 추가 요청 | 아인하이츠팍트 | [naver cafe](https://cafe.naver.com/kkutukorea/126144) | 6.21 21:55 | [] |
