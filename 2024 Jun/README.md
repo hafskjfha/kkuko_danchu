@@ -52,3 +52,11 @@
 | 48 | 추가 | 매니 | [naver cafe](https://cafe.naver.com/kkutukorea/126139) | 6.21 11:31 | [] |
 | 49 | 쿠키런 단어 추가 | IIIllllII | [naver cafe](https://cafe.naver.com/kkutukorea/126140) | 6.21 15:07 | [] |
 | 50 | 간식 추가 요청 | 아인하이츠팍트 | [naver cafe](https://cafe.naver.com/kkutukorea/126144) | 6.21 21:55 | [] |
+| 51 | 동물의 숲 단어 추가 요청 | 설월화 | [naver cafe](https://cafe.naver.com/kkutukorea/126148) | 6.22 14:16 | [] |
+| 52 | 추가 | 매니 | [naver cafe](https://cafe.naver.com/kkutukorea/126149) | 6.22 14:40 | [] |
+| 53 | 간식 | 타자 느리니까 이해좀 | [naver cafe](https://cafe.naver.com/kkutukorea/126154) | 6.22 21:25 | [] |
+| 54 | 주제 4개 | AHE | [naver cafe](https://cafe.naver.com/kkutukorea/126155) | 6.22 22:00 | [] |
+| 55 | 라노벨 | 타자 느리니까 이해좀 | [nvaer cafe](https://cafe.naver.com/kkutukorea/126159) | 6.23 02:04 | [] |
+| 56 | 추가 | 머리어깨구두빨 | [naver cafe](https://cafe.naver.com/kkutukorea/126162) | 6.23 03:16 | [] |
+| 57 | 포켓몬스터 단어 추가 요청 | Flower l Clover | [naver cafe](https://cafe.naver.com/kkutukorea/126164) | 6.23 13:57 | [] |
+| 58 | 뮤연 | 타자 느리니까 이해좀 | [naver cafe](https://cafe.naver.com/kkutukorea/126167) | 6.24 00:50 | [] |
