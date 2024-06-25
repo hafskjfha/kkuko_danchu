@@ -62,3 +62,5 @@
 | 58 | 뮤연 | 타자 느리니까 이해좀 | [naver cafe](https://cafe.naver.com/kkutukorea/126167) | 6.24 00:50 | [] |
 | 59 | 추가 | 머리어깨구두빨 | [naver cafe](https://cafe.naver.com/kkutukorea/126230) | 6.24 22:04 | [] |
 | 60 | 추가 | 머리어깨구두빨 |[naver cafe](https://cafe.naver.com/kkutukorea/126235) | 6.25 05:40 | [] |
+| 61 | 기업 단어 추가 요청 | 설월화 | 6
+25 16:47 | [naver cafe](https://cafe.naver.com/kkutukorea/126236) | [] |
