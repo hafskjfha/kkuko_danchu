@@ -64,5 +64,5 @@
 | 60 | *검토되기전 삭제됨*  |  |[naver cafe](https://cafe.naver.com/kkutukorea/126235) | 6.25 05:40 |  |
 | 61 | 기업 단어 추가 요청 | 설월화 | [naver cafe](https://cafe.naver.com/kkutukorea/126236) | 6.25 16:47 | [] |
 | 62 | 추가 | 머리어깨구두빨 | [naver cafe](https://cafe.naver.com/kkutukorea/126237) | 6.25 19:27 | [] |
-| 63 | 24 6월 2차 추가 및 수정 브롤스타즈 | [naver cafe](https://cafe.naver.com/kkutukorea/126239) | 6.25 22:33 | [] |
-| 64 | 디지몬 | [naver cafe](https://cafe.naver.com/kkutukorea/126240) | 6.25 23:15 | [] |
+| 63 | 24 6월 2차 추가 및 수정 브롤스타즈 | 역우주 | [naver cafe](https://cafe.naver.com/kkutukorea/126239) | 6.25 22:33 | [] |
+| 64 | 디지몬 | 타자 느리니까 이해좀 | [naver cafe](https://cafe.naver.com/kkutukorea/126240) | 6.25 23:15 | [] |
