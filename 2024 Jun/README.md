@@ -67,5 +67,5 @@
 | 63 | 24 6월 2차 추가 및 수정 브롤스타즈 | 역우주 | [naver cafe](https://cafe.naver.com/kkutukorea/126239) | 6.25 22:33 | [] |
 | 64 | 디지몬 | 타자 느리니까 이해좀 | [naver cafe](https://cafe.naver.com/kkutukorea/126240) | 6.25 23:15 | [] |
 | 65 | 추가 수정 | 머리어깨구두빨 | [naver cafe](https://cafe.naver.com/kkutukorea/126241) | 6.26 21:01 | [] |
-| 66 | 리그 오브 레전드 14.13 패치노트 | [naver cafe](https://cafe.naver.com/kkutukorea/126242) | 6.26 21:02 | [] | 
+| 66 | 리그 오브 레전드 14.13 패치노트 | 지롯 | [naver cafe](https://cafe.naver.com/kkutukorea/126242) | 6.26 21:02 | [] | 
 | 67 | 원신단어 추가 요청 | gong | [naver cafe](https://cafe.naver.com/kkutukorea/126243) | 6.27 04:08 | [] |
