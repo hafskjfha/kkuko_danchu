@@ -71,5 +71,5 @@
 | 67 | 원신단어 추가 요청 | gong | [naver cafe](https://cafe.naver.com/kkutukorea/126243) | 6.27 04:08 | [] |
 | 68 | 국가지정문화재 단어 추가 요청 | 8759632145 | [naver cafe](https://cafe.naver.com/kkutukorea/126245) | 6.27 12:49 | [] |
 | 69 | 추가 | Niadot | [naver cafe](https://cafe.naver.com/kkutukorea/126247) | 6.27 22:48 | [] |
-| 70 | 비디오 게임 단어 삭제 요청 | [naver cafe](https://cafe.naver.com/kkutukorea/126248) | 6.28 00:01 | [] |
-| 71 | 모마 133차 추가신청 | [naver cafe](https://cafe.naver.com/kkutukorea/126249) | 6.28 09:20 | [] |
+| 70 | 비디오 게임 단어 삭제 요청 | gong | [naver cafe](https://cafe.naver.com/kkutukorea/126248) | 6.28 00:01 | [] |
+| 71 | 모마 133차 추가신청 | 안녕하세요3 | [naver cafe](https://cafe.naver.com/kkutukorea/126249) | 6.28 09:20 | [] |
