@@ -73,3 +73,7 @@
 | 69 | 추가 | Niadot | [naver cafe](https://cafe.naver.com/kkutukorea/126247) | 6.27 22:48 | [] |
 | 70 | 비디오 게임 단어 삭제 요청 | gong | [naver cafe](https://cafe.naver.com/kkutukorea/126248) | 6.28 00:01 | [] |
 | 71 | 모마 133차 추가신청 | 안녕하세요3 | [naver cafe](https://cafe.naver.com/kkutukorea/126249) | 6.28 09:20 | [] |
+| 72 | 도라에몽, 비디오 게임, 원신, 카트라이더 단어 추가 요청 | gong | [naver cafe](https://cafe.naver.com/kkutukorea/126256) | 6.29 00:20 | [] |
+| 73 | 요청 | AHE | [naver cafe](https://cafe.naver.com/kkutukorea/126261) | 6.29 18:18 | [] |
+| 74 | 웹툰 | 타자 느리니까 이해좀 | [naver cafe](https://cafe.naver.com/kkutukorea/126263) | 6.29 23:02 | [] |
+| 75 | 원신,카트라이더 단어 추가 요청 | gong | [naver cafe](https://cafe.naver.com/kkutukorea/126265) | 6.30 00:20 | [] |
