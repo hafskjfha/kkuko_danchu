@@ -77,3 +77,7 @@
 | 73 | 요청 | AHE | [naver cafe](https://cafe.naver.com/kkutukorea/126261) | 6.29 18:18 | [] |
 | 74 | 웹툰 | 타자 느리니까 이해좀 | [naver cafe](https://cafe.naver.com/kkutukorea/126263) | 6.29 23:02 | [] |
 | 75 | 원신,카트라이더 단어 추가 요청 | gong | [naver cafe](https://cafe.naver.com/kkutukorea/126265) | 6.30 00:20 | [] |
+| 76 | 음식 단어 추가 요청 | 냥포닝 | [naver cafe](https://cafe.naver.com/kkutukorea/126288) | 6.30 | [] |
+| 77 | 계단을오르면건강이올라갑니다 | khee731114 | [naver cafe](https://cafe.naver.com/kkutukorea/126291) | 6.30 | [] |
+| 78 | 추가 | 매니 | [naver cafe](https://cafe.naver.com/kkutukorea/126292) | 6.30 | [] |
+| 79 | 카트라이더 단어 추가 요청 | [naver cafe](https://cafe.naver.com/kkutukorea/126297) | 7.01 | [] |
