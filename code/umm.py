@@ -16,5 +16,5 @@ for P in lq:
 print(*R,sep='\n')
 
 with open('aa.txt','w',encoding='utf-8') as f:
-	lq=f.write('\n'.join(R))
+	f.write('\n'.join(R))
 		
